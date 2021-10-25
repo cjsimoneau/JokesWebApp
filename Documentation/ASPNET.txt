@@ -1,1 +1,1 @@
-YouTube ASP.NET Core Crash Course
+ASP.NET Core course
